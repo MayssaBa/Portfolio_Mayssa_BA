@@ -119,7 +119,7 @@ function fauxRep(resi,i){
 
 }
 
-function envoyer(event) {
+function envoyer() {
     nom=document.getElementById("nom");
     email=document.getElementById("email");
     suj=document.getElementById("sujet");
@@ -139,5 +139,6 @@ function envoyer(event) {
     alert("Message envoyé avec succès !");
     
 };
+
 
 document.getElementById("form").addEventListener("submit",envoyer);
