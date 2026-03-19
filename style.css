@@ -150,7 +150,7 @@ footer{
 }
 
 
-.competence h1, .stages h1, .projets h1, .quiz h1, .contactPage h1, .iit h1{
+.competence h1, .stages h1, .projets h1, .quiz h1, .contactPage h1, .iit h1, .certif h1{
     text-align: center;
     color:#1F2933;
 }
@@ -414,6 +414,5 @@ footer{
         margin: 10px auto;
 }
 }
-
 
 
